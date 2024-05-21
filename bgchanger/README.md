@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# This project is created with Tailwind CSS ( Background Color Changer )
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is created with Tailwind CSS 
 
 ## Available Scripts
 
