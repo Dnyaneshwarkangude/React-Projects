@@ -5,3 +5,4 @@ also we can copy that password to clipboard using copy button.
 
 
 
+![password generator](https://github.com/Dnyaneshwarkangude/React-Projects/assets/100485026/3de947cb-7750-4eb7-8c44-90fd74f334ab)
