@@ -1,6 +1,6 @@
 # Todo Application Using Context Api
 
-This todo app is build using context api to implement add , update , delete, completed funcitionality.
+This todo app is build using context api to implement add , update , delete, completed functionality.
 
 
 ![todo1](https://github.com/Dnyaneshwarkangude/React-Projects/assets/100485026/020de457-7178-4ee8-95a0-f9f260a620f7)
